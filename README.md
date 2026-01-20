@@ -1,4 +1,5 @@
 # Кириллический одноконтурный шрифт для расширения Inkscape Stroke Font
+<img width="1174" height="460" alt="image" src="https://github.com/user-attachments/assets/6988bcc5-e9f8-4b14-b02b-1db7147b8fa4" />
 
 Шрифт рукописного стиля с одноконтурным начертанием, поддерживающий кириллицу, созданный для работы с расширением [InkscapeStrokeFont](https://github.com/Shriinivas/inkscapestrokefont). Идеально подходит для гравировки на станках с ЧПУ, лазерной резки, плоттерной печати и других применений, требующих векторных контуров из одной линии.
 
@@ -31,7 +32,6 @@
 ## Готов разработать аналогичный рукописный одноконтурный шрифт по вашему индивидуальному заказу. Для обсуждения проекта обращайтесь по электронной почте: zmeeed314@yandex.ru
 
 # Cyrillic Single Line Stroke Font for Inkscape Stroke Font Extension
-<img width="1174" height="460" alt="image" src="https://github.com/user-attachments/assets/6988bcc5-e9f8-4b14-b02b-1db7147b8fa4" />
 
 A handwritten-style single line stroke font supporting Cyrillic script, designed for use with the [InkscapeStrokeFont](https://github.com/Shriinivas/inkscapestrokefont) extension. This font is ideal for CNC engraving, laser cutting, pen plotting, and other applications requiring single-line vector paths.
 

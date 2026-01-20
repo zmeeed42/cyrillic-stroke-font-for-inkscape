@@ -1,3 +1,35 @@
+# Кириллический одноконтурный шрифт для расширения Inkscape Stroke Font
+
+Шрифт рукописного стиля с одноконтурным начертанием, поддерживающий кириллицу, созданный для работы с расширением [InkscapeStrokeFont](https://github.com/Shriinivas/inkscapestrokefont). Идеально подходит для гравировки на станках с ЧПУ, лазерной резки, плоттерной печати и других применений, требующих векторных контуров из одной линии.
+
+## Происхождение шрифта
+Этот шрифт создан на основе **MADE Likes Script** (доступен на [fonts-online.ru](https://fonts-online.ru/fonts/made-likes-script)), конвертированного и адаптированного в одноконтурный формат с полной поддержкой кириллических символов.
+
+## Установка
+1. Убедитесь, что у вас установлено [расширение Inkscape Stroke Font](https://github.com/Shriinivas/inkscapestrokefont)
+2. Поместите файл `MADE Likes Script.svg` в соответствующую директорию:
+      - Windows: `%APPDATA%\Roaming\inkscape\extensions\strokefontdata\`
+3. Перезапустите Inkscape
+
+## Использование в Inkscape
+В соответствии с инструкциями для [расширения Inkscape Stroke Font](https://github.com/Shriinivas/inkscapestrokefont)
+
+## Набор символов
+Шрифт включает:
+- Заглавные и строчные буквы русского алфавита (А-Я, а-я)
+- Заглавные и строчные буквы английского алфавита (A-Z, a-z)
+- Основные знаки препинания и символы
+- Цифры (0-9)
+
+## Благодарности
+- Оринальный дизайн: [MADE Likes Script](https://www.behance.net/madetype)
+- Расширение Inkscape Stroke Font: [Shriinivas](https://github.com/Shriinivas/inkscapestrokefont)
+
+## Участие в разработке
+Приветствуются предложения, улучшения и сообщения об ошибках! Пожалуйста, создайте issue или pull request, если у вас есть предложения или вы столкнулись с проблемами.
+
+## Готов разработать аналогичный рукописный одноконтурный шрифт по вашему индивидуальному заказу. Для обсуждения проекта обращайтесь по электронной почте: zmeeed314@yandex.ru
+
 # Cyrillic Single Line Stroke Font for Inkscape Stroke Font Extension
 <img width="1174" height="460" alt="image" src="https://github.com/user-attachments/assets/6988bcc5-e9f8-4b14-b02b-1db7147b8fa4" />
 
@@ -33,7 +65,7 @@ The font includes:
 - **Laser cutting/engraving** - Single-line designs for efficient processing
 - **Pen plotters & vinyl cutters** - Continuous paths without retractions
 - **3D printing text** - For embossed/debossed surface text
-- **Technical drawings** - Clean annotation font
+
 
 ## Credits
 - Original design: [MADE Likes Script](https://www.behance.net/madetype)
